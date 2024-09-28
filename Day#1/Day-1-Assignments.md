@@ -62,9 +62,40 @@
 
 ![image](https://github.com/user-attachments/assets/e58ec73b-9bc9-4c6c-bdf5-f20a9e28e159)
 
-10.) cmd - docker pull ngnix
+10.) cmd - docker pull nginx
 
-![image](https://github.com/user-attachments/assets/d932bc08-efa0-4b7b-af8a-ac2b81f2c326)
+![image](https://github.com/user-attachments/assets/c8d9c4a5-4b13-42b5-9c02-48187a8c99be)
+
+11.) docker run -idt nginx
+
+![image](https://github.com/user-attachments/assets/9e251e58-0615-45b5-be2a-8ee25a2b9e60)
+
+12.) docker ps
+
+![image](https://github.com/user-attachments/assets/9ac80469-865b-4df5-9867-473efcb6f4aa)
+
+13.) docker stop 
+
+![image](https://github.com/user-attachments/assets/c5f2fb4f-9310-4f60-a0fb-cf5740340daa)
+
+14.) docker restart 
+
+![image](https://github.com/user-attachments/assets/4579aad8-3eaa-4161-9b74-f2c4fe5f6fbb)
+
+15.) docker start
+
+![image](https://github.com/user-attachments/assets/12ef87dd-3d81-4db8-bb5d-8553db2d57db)
+
+16.) docker logs
+![image](https://github.com/user-attachments/assets/9632766a-e384-464b-ae52-f0172e198652)
+
+17.) docker rm 
+
+![image](https://github.com/user-attachments/assets/81d3770d-8cbb-4d6e-808c-fdebb2abb9f5)
+
+
+
+
 
 
 

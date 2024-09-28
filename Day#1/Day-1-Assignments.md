@@ -26,7 +26,7 @@
 
 #### #1 Execute 25 Docker CLI commands, capture the output screenshots, and document each command's usage on a GitHub Wiki page
 
-1.) cmd - docker version
+1.) cmd - docker version 
 
 ![image](https://github.com/user-attachments/assets/2a7f862b-2305-4935-a781-4e3a6d0cca2d)
 
@@ -61,6 +61,10 @@
 9.) cmd - docker images 
 
 ![image](https://github.com/user-attachments/assets/e58ec73b-9bc9-4c6c-bdf5-f20a9e28e159)
+
+10.) cmd - docker pull ngnix
+
+![image](https://github.com/user-attachments/assets/d932bc08-efa0-4b7b-af8a-ac2b81f2c326)
 
 
 

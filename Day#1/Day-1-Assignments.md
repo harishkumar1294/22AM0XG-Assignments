@@ -36,9 +36,10 @@
 
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
-> Add your answer here!
+3.) docker system info
 
-***
+![image](https://github.com/user-attachments/assets/8bc9db65-4762-4a71-b298-1fe096e9a666)
+
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 > Add your answer here!

@@ -30,9 +30,10 @@
 ![image](https://github.com/user-attachments/assets/2a7f862b-2305-4935-a781-4e3a6d0cca2d)
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
-> Add your answer here!
+2.) cmd - docker info
 
-***
+![image](https://github.com/user-attachments/assets/1c9cb42a-8911-47f3-828f-27ad9e2be3f3)
+
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
 > Add your answer here!

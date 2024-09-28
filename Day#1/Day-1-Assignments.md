@@ -59,17 +59,19 @@
 ![image](https://github.com/user-attachments/assets/47d5ba5b-ff90-4140-808b-021564df6f2d)
 
 
-
-
-
-
-
-
-
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki
+
+1.) Python --version
+
+
+![image](https://github.com/user-attachments/assets/63c17e00-6b3d-48ee-a274-3758d8616a8b)
 
 
 #### #3 [Python] Create a sample flask app and edit the same to showcase your college information(Name, Register_number,etc)
+
+1.) Python_hello_world
+
+![image](https://github.com/user-attachments/assets/5f60d564-d68d-4e6d-b94a-cc8f834bea6e)
 
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser

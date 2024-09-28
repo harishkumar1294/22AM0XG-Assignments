@@ -34,29 +34,34 @@
 
 ![image](https://github.com/user-attachments/assets/1c9cb42a-8911-47f3-828f-27ad9e2be3f3)
 
-3.) docker system info
+3.) cmd - docker system info
 
 ![image](https://github.com/user-attachments/assets/8bc9db65-4762-4a71-b298-1fe096e9a666)
 
-4.) docker --help
+4.) cmd - docker --help
 
 ![image](https://github.com/user-attachments/assets/b1dc097e-0fc9-480c-a879-b949eea735d7)
 
-5.) docker compose version
+5.) cmd - docker compose version
 
 ![image](https://github.com/user-attachments/assets/d9edb938-d39e-404f-b33d-60beb3fc306c)
 
-6.) docker login
+6.) cmd - docker login
 
 ![image](https://github.com/user-attachments/assets/a7aaa4e2-acc7-4a84-b890-40b6badbd4f4)
 
-7.) docker logout
+7.) cmd - docker logout
 
 ![image](https://github.com/user-attachments/assets/c921e221-4045-4f6b-85aa-86a9fd1f9288)
 
-8.) docker search nginx
+8.) cmd - docker search nginx
 
 ![image](https://github.com/user-attachments/assets/47d5ba5b-ff90-4140-808b-021564df6f2d)
+
+9.) cmd - docker images 
+
+![image](https://github.com/user-attachments/assets/e58ec73b-9bc9-4c6c-bdf5-f20a9e28e159)
+
 
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki

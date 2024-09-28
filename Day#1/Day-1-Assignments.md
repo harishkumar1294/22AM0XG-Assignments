@@ -73,6 +73,11 @@
 
 ![image](https://github.com/user-attachments/assets/5f60d564-d68d-4e6d-b94a-cc8f834bea6e)
 
+02.) flask hello_World
+
+![image](https://github.com/user-attachments/assets/79b41506-0e52-4b7d-a71e-f75183d59884)
+
+
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 > Add your answer here!

@@ -50,6 +50,16 @@
 
 ![image](https://github.com/user-attachments/assets/a7aaa4e2-acc7-4a84-b890-40b6badbd4f4)
 
+7.) docker logout
+
+![image](https://github.com/user-attachments/assets/c921e221-4045-4f6b-85aa-86a9fd1f9288)
+
+8.) docker search nginx
+
+![image](https://github.com/user-attachments/assets/47d5ba5b-ff90-4140-808b-021564df6f2d)
+
+
+
 
 
 

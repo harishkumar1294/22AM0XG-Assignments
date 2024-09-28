@@ -93,6 +93,11 @@
 
 ![image](https://github.com/user-attachments/assets/81d3770d-8cbb-4d6e-808c-fdebb2abb9f5)
 
+18.) docker build
+
+![image](https://github.com/user-attachments/assets/37413414-7abf-4357-9838-6b38dc0df860)
+
+
 
 
 

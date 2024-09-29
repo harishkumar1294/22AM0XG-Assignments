@@ -158,9 +158,9 @@
 ![image](https://github.com/user-attachments/assets/1d1e8499-18e2-41b1-af8b-cc03a82c5c5b)
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
-> Add your answer here!
 
-***
+![image](https://github.com/user-attachments/assets/0e32053e-c5d2-4423-ab77-29f4bc329ff8)
+
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
 

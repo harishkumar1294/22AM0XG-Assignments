@@ -124,14 +124,11 @@
 
 25.) cmd - docker run
 
+![image](https://github.com/user-attachments/assets/71b922d7-efef-4f9e-ab6c-af4941012e13)
 
+26.) cmd - docker prune 
 
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/7497ee34-fbc0-4fd9-9aa2-aac98a95053a)
 
 
 #### #2 Install VSCode and Python. Check the version of Python. Document these steps in GitHub Wiki

@@ -47,9 +47,8 @@
 
 
 #### #4 Commit the code to the Github Repo. The repo should be a public one. 
-> Add your answer here!
 
-***
+![image](https://github.com/user-attachments/assets/3915f1fc-3e7e-4ef1-9997-2e859fee16d9)
 
 #### #5 Document all the learnings with screenshots in the GitHub Wiki / in .md file
 > Add your answer here!

@@ -153,6 +153,8 @@
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
 
+![image](https://github.com/user-attachments/assets/53e46c33-8565-4425-8794-afcaa86958e8)
+
 ![image](https://github.com/user-attachments/assets/1d1e8499-18e2-41b1-af8b-cc03a82c5c5b)
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
@@ -161,6 +163,9 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
+
+![image](https://github.com/user-attachments/assets/4e6e2a77-5a15-44b4-891e-cf92846c53fd)
+
 
 ![image](https://github.com/user-attachments/assets/d24b8bdf-2be7-4888-a949-20942d227c09)
 

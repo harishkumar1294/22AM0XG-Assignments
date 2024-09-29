@@ -66,36 +66,69 @@
 
 ![image](https://github.com/user-attachments/assets/c8d9c4a5-4b13-42b5-9c02-48187a8c99be)
 
-11.) docker run -idt nginx
+11.) cmd - docker run -idt nginx
 
 ![image](https://github.com/user-attachments/assets/9e251e58-0615-45b5-be2a-8ee25a2b9e60)
 
-12.) docker ps
+12.) cmd - docker ps
 
 ![image](https://github.com/user-attachments/assets/9ac80469-865b-4df5-9867-473efcb6f4aa)
 
-13.) docker stop 
+13.) cmd - docker stop 
 
 ![image](https://github.com/user-attachments/assets/c5f2fb4f-9310-4f60-a0fb-cf5740340daa)
 
-14.) docker restart 
+14.) cmd - docker restart 
 
 ![image](https://github.com/user-attachments/assets/4579aad8-3eaa-4161-9b74-f2c4fe5f6fbb)
 
-15.) docker start
+15.) cmd - docker start
 
 ![image](https://github.com/user-attachments/assets/12ef87dd-3d81-4db8-bb5d-8553db2d57db)
 
-16.) docker logs
+16.) cmd - docker logs
 ![image](https://github.com/user-attachments/assets/9632766a-e384-464b-ae52-f0172e198652)
 
-17.) docker rm 
+17.) cmd - docker rm 
 
 ![image](https://github.com/user-attachments/assets/81d3770d-8cbb-4d6e-808c-fdebb2abb9f5)
 
-18.) docker build
+18.) cmd - docker build
 
 ![image](https://github.com/user-attachments/assets/37413414-7abf-4357-9838-6b38dc0df860)
+
+19.) cmd - docke push
+
+![image](https://github.com/user-attachments/assets/8512c448-86b3-41ee-9f5e-1a75191a2340)
+
+
+20.) cmd - docker tag
+
+![image](https://github.com/user-attachments/assets/c1ee6ec4-72b9-46fb-a5e7-000a37af6cb6)
+
+21.) cmd - docker save
+
+![image](https://github.com/user-attachments/assets/45f87be7-8b7f-4b3b-9801-1a73dca70887)
+
+22.) cmd - docker load 
+
+![image](https://github.com/user-attachments/assets/974e84ea-9ea4-45ab-8373-05cc970a94c1)
+
+23.) cmd - docker exec
+
+![image](https://github.com/user-attachments/assets/7e566516-d1f9-429b-a9ff-9dd7dc5665ee)
+
+24.) cmd docker cp
+
+![image](https://github.com/user-attachments/assets/a2645541-242a-4702-8ae8-dfb6f77345ea)
+
+25.) cmd - docker run
+
+
+
+
+
+
 
 
 

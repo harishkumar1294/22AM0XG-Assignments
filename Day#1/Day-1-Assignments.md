@@ -152,9 +152,8 @@
 
 
 #### #4 [Docker] Create the docker image for the above-mentioned flask app and run the same view of the page in a browser
-> Add your answer here!
 
-***
+![image](https://github.com/user-attachments/assets/1d1e8499-18e2-41b1-af8b-cc03a82c5c5b)
 
 #### #5 [Docker] Create a docker compose file for the 2 images: nginx/httpd and run the same view of the page in a browser
 > Add your answer here!
@@ -162,9 +161,8 @@
 ***
 
 #### #6 [Docker] Pull one of the participant’s docker images and verify whether the app is running or not
-> Add your answer here!
 
-***
+![image](https://github.com/user-attachments/assets/d24b8bdf-2be7-4888-a949-20942d227c09)
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
 > Add your answer here!

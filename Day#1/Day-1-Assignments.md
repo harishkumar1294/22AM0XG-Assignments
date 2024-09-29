@@ -170,11 +170,11 @@
 ![image](https://github.com/user-attachments/assets/d24b8bdf-2be7-4888-a949-20942d227c09)
 
 #### #7 Create a GitHub account with a personal mail ID & fork this repo and rename this in the format 22AM0XG-Assignments-Register-Number
-> Add your answer here!
 
-***
+![image](https://github.com/user-attachments/assets/f8af1f8e-606a-44a1-a4f5-f36fc247617f)
+
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
 
-***
+![image](https://github.com/user-attachments/assets/410b8260-407e-4faf-afe6-3d95e6062cc0)
+

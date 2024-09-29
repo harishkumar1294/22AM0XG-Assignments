@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  email:
+    image: "harishkumar1294/flask-hello-world"
+    container_name : email_container
+    restart : always
+
+  movie:
+    image: "deepak3105/flask-hello-world"
+    container_name: movie_container
+    restart : always

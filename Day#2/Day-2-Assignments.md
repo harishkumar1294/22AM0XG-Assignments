@@ -51,9 +51,8 @@
 ![image](https://github.com/user-attachments/assets/3915f1fc-3e7e-4ef1-9997-2e859fee16d9)
 
 #### #5 Document all the learnings with screenshots in the GitHub Wiki / in .md file
-> Add your answer here!
 
-***
+![image](https://github.com/user-attachments/assets/d58d1707-39ac-4894-b8f0-a2dae347800f)
 
 #### #6 Create a post on Linkedin about your learning journey in this 1 credit course
 > Add your answer here!
